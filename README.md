@@ -2,8 +2,8 @@
 Beginning of an Angular application
 
 
-ng new TaskManager --style=scss --routing --skip-install
-npm install jquery bootstrap font-awesome --save
-npm install
-ng serve --open
+1. ng new TaskManager --style=scss --routing --skip-install
+1. npm install jquery bootstrap font-awesome --save
+1. npm install
+1. ng serve --open
 
